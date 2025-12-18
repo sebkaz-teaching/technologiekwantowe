@@ -11,15 +11,12 @@ website:
       - section : "Wykłady"
         contents:
           - lectures/wyklad1.qmd
-          # - lectures/wyklad2.qmd
-          # - lectures/wyklad3.qmd
-          # - lectures/wyklad4.qmd
+
   navbar:
     left:
           - href: ksiazki.qmd
             text: Książki
-          
-
+        
 format:
   html:
     theme: cosmo
