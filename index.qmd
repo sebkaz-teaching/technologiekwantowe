@@ -5,8 +5,6 @@ title: "Informacje ogólne"
 ## {{< var main.nazwa >}}
 
 
-Podstawowe informacje znajdziesz w [sylabusie](/sylabus).
-
 Ciekawe książki i strony internetowe zamieszczone zostały w zakładce [książki](/ksiazki). 
 Jeśli chciał(a)byś coś dodać prześlij informację przez MS teams.
 
@@ -14,7 +12,11 @@ Jeśli chciał(a)byś coś dodać prześlij informację przez MS teams.
 
 #### Wykład 
 
-
+1. 21.12.2025
+2. 11.01.2025
+3. 24.01.2025
+4. 25.01.2025
+5. 01.02.2026
 
 ## Technologie
 
