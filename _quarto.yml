@@ -8,9 +8,10 @@ website:
     style: "docked" 
     contents:
       - index.qmd
-      - section : "Wykłady"
+      - section : "Zajęcia"
         contents:
           - lectures/wyklad1.qmd
+          - lectures/kodyw1.ipynb
 
   navbar:
     left:
