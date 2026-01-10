@@ -12,7 +12,7 @@ Jeśli chciał(a)byś coś dodać prześlij informację przez MS teams.
 
 #### Wykład 
 
-1. 21.12.2025
+1. <del>21.12.2025</del>
 2. 11.01.2025
 3. 24.01.2025
 4. 25.01.2025
